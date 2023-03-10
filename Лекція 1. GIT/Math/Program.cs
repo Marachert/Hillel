@@ -1,5 +1,5 @@
 ﻿using Math;
 
-Count count = new Count();
+Count count = new();
 
-Console.WriteLine(count.SumOfNumbers(1, 4));
+Console.WriteLine(count.SumOfNumbers(1, 100));
