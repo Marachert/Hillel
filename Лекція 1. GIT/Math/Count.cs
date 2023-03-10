@@ -3,7 +3,7 @@ namespace Math
 {
     public class Count
     {
-        internal int SumOfNumbers(int from, int to)
+        public int SumOfNumbers(int from, int to)
         {
             if (to == from)
                 return to;
