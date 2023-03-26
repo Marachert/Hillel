@@ -11,5 +11,6 @@ namespace Math
             return to + SumOfNumbers(from, to - 1);
 
         }
+
     }
 }
